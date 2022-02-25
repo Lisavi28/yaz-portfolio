@@ -1,7 +1,7 @@
 # yaz-portfolio
 
 ## Purpose
-A website that gives an insight into my professional portfolio. 
+A website that gives an insight into my professional portfolio. It is an interactive site with links to my deployed applications 
 
 ## Built With
 
@@ -16,6 +16,6 @@ https://lisavi28.github.io/yaz-portfolio/
 
 Made by [Yazmín Sánchez]
 
-![image12] (https://github.com/Lisavi28/yaz-portfolio/blob/main/assets/images/image12.png)
+![image12](https://github.com/Lisavi28/yaz-portfolio/blob/main/assets/images/image12.png)
 
 ### ©️2022 Yazmín Sánchez.
