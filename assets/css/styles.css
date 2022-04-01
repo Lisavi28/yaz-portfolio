@@ -90,7 +90,6 @@
     margin: 0 auto 15px auto;
       }
       
-      /*section title styles end*/
   
       /*section about me*/
   
@@ -111,7 +110,6 @@
   
   .img-me img {
     border-radius: 50%; /*para agregar img en circulo y hacerlo mas opaco*/
-    opacity: 0.5;
   }
   
   .flex-row {
